@@ -1,0 +1,20 @@
+.portfolio-img-cards {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    border-radius: 3px;
+}
+.lizapiza-img {
+    width: 230px;
+    height: 400px;
+}
+.card-pohto {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+body {
+    font-family: "Sofia", sans-serif;
+}
